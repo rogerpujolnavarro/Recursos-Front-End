@@ -81,3 +81,8 @@
 * _ProjectEuler_: https://projecteuler.net/
 * _Rosalind_: http://rosalind.info/
 * _Symbaloo_: https://www.symbaloo.com/
+
+#### VSCode
+* _Keyboard shortcuts for Linux_: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+* _Keyboard shortcuts for Windows_: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+* _Keyboard shortcuts for macOs_: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
