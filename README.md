@@ -55,6 +55,7 @@
 
 * https://www.w3schools.com/js/default.asp
 * https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/
+* https://bluuweb.github.io/javascript/02-dom/
 
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
