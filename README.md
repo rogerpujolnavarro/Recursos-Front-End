@@ -20,6 +20,7 @@
 * http://howtocenterincss.com/
 * https://css-tricks.com/specifics-on-css-specificity/
 * https://specificity.keegan.st/
+* https://bennettfeely.com/clippy/
 
 ### Icones i fonts
 
