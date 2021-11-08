@@ -60,6 +60,7 @@
 * https://jsfiddle.net/
 * https://codepen.io/
 * https://codesandbox.io/
+* [map, reduce, filter, find, forEach](https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-c%C3%B3mo-utilizarlos-y-sus-diferencias-e0e078646d11)
 
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
