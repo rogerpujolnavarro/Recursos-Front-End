@@ -21,6 +21,9 @@
 * https://css-tricks.com/specifics-on-css-specificity/
 * https://specificity.keegan.st/
 * https://bennettfeely.com/clippy/
+* https://cybmeta.com/em-y-rem
+* https://meyerweb.com/eric/tools/css/reset/
+* https://www.cssfontstack.com/
 
 ### Icones i fonts
 
@@ -61,6 +64,7 @@
 * https://codepen.io/
 * https://codesandbox.io/
 * [map, reduce, filter, find, forEach](https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-c%C3%B3mo-utilizarlos-y-sus-diferencias-e0e078646d11)
+* https://quicktype.io/
 
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
