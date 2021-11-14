@@ -59,12 +59,13 @@
 
 * https://www.w3schools.com/js/default.asp
 * https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/
+* [map, reduce, filter, find, forEach](https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-c%C3%B3mo-utilizarlos-y-sus-diferencias-e0e078646d11)
 * https://bluuweb.github.io/javascript/02-dom/
 * https://jsfiddle.net/
 * https://codepen.io/
 * https://codesandbox.io/
-* [map, reduce, filter, find, forEach](https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-c%C3%B3mo-utilizarlos-y-sus-diferencias-e0e078646d11)
 * https://quicktype.io/
+* [`<`script type="module"`>` vs `<`script`>`](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
 
 * #### Llibres JavaScript
     * Haverbeke, M. [_Eloquent Javascript_](https://eloquentjavascript.net/). (3rd edition 2018).  
