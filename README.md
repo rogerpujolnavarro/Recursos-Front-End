@@ -66,6 +66,11 @@
 * [map, reduce, filter, find, forEach](https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-c%C3%B3mo-utilizarlos-y-sus-diferencias-e0e078646d11)
 * https://quicktype.io/
 
+* #### Llibres JavaScript
+    * Haverbeke, M. [_Eloquent Javascript_](https://eloquentjavascript.net/). (3rd edition 2018).  
+    
+    * Rauschmayer, A. [_JavaScript for impatient programmers_](https://exploringjs.com/impatient-js/toc.html) (ES2021 edition)
+
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
 * https://github.com/public-apis/public-apis
