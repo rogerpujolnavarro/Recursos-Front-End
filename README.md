@@ -69,7 +69,9 @@
 * #### Llibres JavaScript
     * Haverbeke, M. [_Eloquent Javascript_](https://eloquentjavascript.net/). (3rd edition 2018).  
     
-    * Rauschmayer, A. [_JavaScript for impatient programmers_](https://exploringjs.com/impatient-js/toc.html) (ES2021 edition)
+    * Rauschmayer, A. [_JavaScript for impatient programmers_](https://exploringjs.com/impatient-js/toc.html). (ES2021 edition).
+
+    * Flanagan, D. [_JavaScript: The Definitive Guide_](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/). (7th edition may 2020). O'Reilly Media, Inc.
 
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
