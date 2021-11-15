@@ -65,6 +65,7 @@
 * https://codepen.io/
 * https://codesandbox.io/
 * https://quicktype.io/
+* https://es.javascript.info/
 * [`<`script type="module"`>` vs `<`script`>`](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
 
 * #### Llibres JavaScript
@@ -74,6 +75,10 @@
 
     * Flanagan, D. [_JavaScript: The Definitive Guide_](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/). (7th edition may 2020). O'Reilly Media, Inc.
 
+* #### TypeScript
+    * https://www.typescriptlang.org/docs/
+    * https://peteohanlon.wordpress.com/2021/10/25/100-days-of-typescript-day-1/
+
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
 * https://github.com/public-apis/public-apis
@@ -81,7 +86,6 @@
 ### Guies i manuals
 
 * _HTML_: https://www.w3schools.com/html/default.asp
-* _TypeScript_: https://www.typescriptlang.org/docs/
 * _Programming Notes_: https://books.goalkicker.com/
 * _Git_
     * https://git-scm.com/doc
