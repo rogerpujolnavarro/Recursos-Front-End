@@ -25,6 +25,9 @@
 * https://meyerweb.com/eric/tools/css/reset/
 * https://www.cssfontstack.com/
 
+* #### Llibres CSS
+    * CSS in Depth (https://www.amazon.es/gp/aw/d/1617293458/ref=ox_sc_saved_image_3?smid=A1AT7YVPFBWXBL&psc=1)
+
 ### Icones i fonts
 
 * https://fontawesome.com/
@@ -79,8 +82,6 @@
 * #### TypeScript
     * https://www.typescriptlang.org/docs/
     * https://peteohanlon.wordpress.com/2021/10/25/100-days-of-typescript-day-1/
-* #### CSS
-    * CSS in Depth (https://www.amazon.es/gp/aw/d/1617293458/ref=ox_sc_saved_image_3?smid=A1AT7YVPFBWXBL&psc=1)
 
 ### APIs
 * https://auth0.com/blog/what-is-an-api-how-apis-work-for-non-developers/
