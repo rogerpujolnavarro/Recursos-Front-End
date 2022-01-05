@@ -25,6 +25,9 @@
 * https://meyerweb.com/eric/tools/css/reset/
 * https://www.cssfontstack.com/
 
+* #### Llibres CSS
+    * CSS in Depth (https://www.amazon.es/gp/aw/d/1617293458/ref=ox_sc_saved_image_3?smid=A1AT7YVPFBWXBL&psc=1)
+
 ### Icones i fonts
 
 * https://fontawesome.com/
@@ -74,6 +77,7 @@
     * Rauschmayer, A. [_JavaScript for impatient programmers_](https://exploringjs.com/impatient-js/toc.html). (ES2021 edition).
 
     * Flanagan, D. [_JavaScript: The Definitive Guide_](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/). (7th edition may 2020). O'Reilly Media, Inc.
+    * Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler)) (https://www.amazon.es/gp/aw/d/0134757599/ref=ox_sc_saved_image_2?smid=A1AT7YVPFBWXBL&psc=1)
 
 * #### TypeScript
     * https://www.typescriptlang.org/docs/
