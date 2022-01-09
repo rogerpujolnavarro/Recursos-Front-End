@@ -36,6 +36,11 @@
 * https://thenounproject.com/
 * https://www.flaticon.es/
 * https://fonts.google.com/
+* 
+* #### Generadors App Icons
+    * https://romannurik.github.io/
+    * https://appicon.co/
+    * https://www.favicon-generator.org/
 
 ### Imatges
 
