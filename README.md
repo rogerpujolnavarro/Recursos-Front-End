@@ -70,6 +70,7 @@
 * https://quicktype.io/
 * https://es.javascript.info/
 * [`<`script type="module"`>` vs `<`script`>`](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
+* [Intersection Observer API Explained in Detail](https://usefulangle.com/post/118/javascript-intersection-observer)
 
 * #### Llibres JavaScript
     * Haverbeke, M. [_Eloquent Javascript_](https://eloquentjavascript.net/). (3rd edition 2018).  
@@ -107,6 +108,7 @@
 * _ProjectEuler_: https://projecteuler.net/
 * _Rosalind_: http://rosalind.info/
 * _Symbaloo_: https://www.symbaloo.com/
+* _SvgPathEditor_: https://yqnn.github.io/svg-path-editor/
 
 #### VSCode
 * _Keyboard shortcuts for Linux_: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
